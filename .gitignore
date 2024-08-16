@@ -1,6 +1,6 @@
 # Ignore files related to API keys
 .env
-
+#ignore Google Cloud credentials
 credentials.json
-
+#ignore credentials
 mmfg-library-925d46491fdb.json
