@@ -1,2 +1,6 @@
 # Ignore files related to API keys
 .env
+
+credentials.json
+
+mmfg-library-925d46491fdb.json
